@@ -3,6 +3,6 @@ LEVEL 1 TASK :2 (PORTFOLIO)
 
 ## Demo
 
-You can try out the calculator by visiting the following link: [Calculator Demo](https://clipchamp.com/watch/8lgkHg7DXf6)
+You can try out the calculator by visiting the following link: [Portfolio Demo](https://clipchamp.com/watch/8lgkHg7DXf6)
 
 
